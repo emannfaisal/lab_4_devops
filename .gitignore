@@ -1,2 +1,7 @@
+# Build logs
 out/
 *.log
+
+# Editor temporary files
+*.swp
+*~
